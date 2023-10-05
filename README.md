@@ -1,1 +1,1 @@
-# Solutions to tasks on Pascal's Triangle
+alx interview repo
